@@ -1,5 +1,18 @@
 *{
-  padding: 0;
-  margin:0;
+  margin: 10px;
+  box-sizing: border-box;
   background-color: royalblue;
+}
+
+h1 {
+  text-align: center;
+  color: whitesmoke;
+  padding-top: 100 px;
+  background-color: gray;
+  height: 100px;
+  width: 200px;
+  border: 10px darkblue;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
 }
