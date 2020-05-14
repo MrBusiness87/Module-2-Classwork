@@ -30,3 +30,21 @@ a {
   color: whitesmoke;
   text-decoration: none;
 }
+
+.ME {
+  background-color: darkgray;
+  width: 370px;
+  height: 370px;
+  margin: 100px auto;
+  padding: 10px;
+}
+
+img {
+  height: 330px;
+  width: 330px;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+
